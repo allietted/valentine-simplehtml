@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap');
+body{
+    background-color: black;
+    background-size: cover;   
+}
+
+.container{
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(./images/vday.webp);  
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Aref Ruqaa Ink', serif;  
+}
+
+
+.title {
+    color:rgba(255, 0, 0, 0.382);
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 30px;
+    font-family: 'Aref Ruqaa Ink', serif;  
+}
+
+/* .first > ul > li{
+     padding-bottom: 20px;
+} */
+
+.first{
+    font-weight: bolder;    
+}
+
+
+
+.tagline {
+    text-align: center;
+    color:rgba(255, 0, 0, 0.477);
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 30px;
+    font-family: 'Aref Ruqaa Ink', serif;   
+}
